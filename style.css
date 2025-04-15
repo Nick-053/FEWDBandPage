@@ -8,8 +8,8 @@ h1 {
 }
 
 .Rascal-Flatts {
-    width: 373px;
-    height: 373px;
+    width: 624px;
+    height: 380px;
     align-items: center;
 
 }
@@ -24,8 +24,8 @@ h2 {
 }
 
 .Rascal-Flatts {
-    width: 373px;
-    height: 373px;
+    width: 624px;
+    height: 380px;
     align-items: center;
 }
 
@@ -34,7 +34,15 @@ h3 {
 }
 
 .Rascal-Flatts {
-    width: 373px;
-    height: 373px;
+    width: 624px;
+    height: 380px;
     align-items: center;
+}
+
+h4 {
+    background-color: white;
+}
+
+h5 {
+    background-color: white;
 }
