@@ -1,21 +1,31 @@
 h1 {
-    background-color: white;
+    background-color: red;
+    text-align: center;
+    border-style:double;
+    border-color: black;
+    margin: 10px;
+    padding: 10px;
 }
 
 .Rascal-Flatts {
-    width: 376px;
-    height: 376px;
+    width: 373px;
+    height: 373px;
     align-items: center;
 
 }
 
 h2 {
-    background-color: white;
+    background-color: red;
+    text-align: center;
+    border-style:double;
+    border-color: black;
+    margin: 10px;
+    padding: 10px;
 }
 
 .Rascal-Flatts {
-    width: 376px;
-    height: 376px;
+    width: 373px;
+    height: 373px;
     align-items: center;
 }
 
@@ -24,7 +34,7 @@ h3 {
 }
 
 .Rascal-Flatts {
-    width: 376px;
-    height: 376px;
+    width: 373px;
+    height: 373px;
     align-items: center;
 }
